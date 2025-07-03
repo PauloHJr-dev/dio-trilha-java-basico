@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// Como estou utilizando comando de entrada, preciso importar o Scanner para dentro do meu projeto.
 
 public class ContaTerminal {
     public static void main(String[] args) {
